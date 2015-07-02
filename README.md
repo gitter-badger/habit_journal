@@ -1,4 +1,6 @@
 # Welcome to Habit Journal
+
+[![Join the chat at https://gitter.im/wurde/habit_journal](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/wurde/habit_journal?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Our mission is to break routine.
 
 > We are what we repeatedly do. Excellence, then, is not an act, but a habit.
